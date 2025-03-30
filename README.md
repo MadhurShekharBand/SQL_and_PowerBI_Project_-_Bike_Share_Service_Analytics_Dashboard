@@ -10,7 +10,7 @@ This project focuses on analysing bike-sharing service data using SQL and Power 
 - **Dashboard Canvas Background:** I created the dashboard’s canvas background in Microsoft Office PowerPoint and then saved the final product as an JPEG image. Both the files are available here: [Dashboard Canvas Background](https://github.com/MadhurShekharBand/SQL_and_PowerBI_Project_-_Bike_Share_Service_Analytics_Dashboard/tree/263d68277868d3360d2fcbff9ec7ed6d796e6bde/Dashboard%20Canvas%20Background)
 
 # Background:
-### The questions I wanted to answer through my SQL queries were:
+### The questions I wanted to answer through this project were:
 - **How does hourly revenue fluctuate throughout the day?** <br>
 I aim to analyse revenue patterns at different hours of the day to identify peak and off-peak rental periods. This will help us understand when demand is highest, allowing for optimized pricing strategies, better resource allocation, and improved service availability. Identifying low-revenue hours may also present opportunities for promotional strategies to boost ridership.
 
